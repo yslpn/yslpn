@@ -1,8 +1,11 @@
 # Frontend Developer • Open-source enthusiast
 
-Main stack: TypeScript (primary), React, Svelte
+I care about developer experience, internationalization, validation, performance, and maintainable architecture.
 
-I care about developer experience, internationalization,validation, performance, and maintainable architecture.
+## Main stack: 
+- TypeScript (primary)
+- React
+- Svelte
 
 ## Current interests:
 - Valibot
