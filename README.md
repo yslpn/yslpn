@@ -3,7 +3,7 @@
 I care about developer experience, internationalization, validation, performance, and maintainable architecture.
 
 ## Main stack: 
-- TypeScript (primary)
+- TypeScript
 - React
 - Svelte
 
