@@ -9,7 +9,7 @@ I care about developer experience, internationalization, validation, performance
 
 ## Current interests:
 - Valibot
-- Feature-Sliced Design (incl. Steiger)
+- Feature-Sliced Design
 - @msw/data
-- js-lingui (incl. swc-plugin)
+- lingui
 - Jellyfin
